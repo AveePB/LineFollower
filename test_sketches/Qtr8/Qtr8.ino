@@ -1,10 +1,6 @@
 /**
  * @file QTR8.ino
  * @brief Example sketch demonstrating use of the QTR-8 reflectance sensor array.
- *
- * This example configures and calibrates an 8-channel QTR sensor array, then continuously
- * reads reflectance values and prints them to the serial monitor. The readings can be
- * used to detect lines or surfaces with different reflectivity for line-following robots.
  */
 
 #define EMITTER_PIN 2  ///< Pin controlling the IR emitter LEDs on the QTR sensor
