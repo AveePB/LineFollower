@@ -21,14 +21,36 @@ This is one of student projects, that is supposed to help acquire knowledge of A
 ## Installation
 
 ### Clone repository
-...
-
+1. Open your powershell and clone repository:
+    ```
+      git clone https://github.com/AveePB/TSR.git
+    ```
 ### Upload code to arduino
-...
+1. Open your Arduino IDE and set device as Arduino UNO and COM port,
+2. Try to verify your code and download needed libraries,
+3. Click upload button to complete task.
 
 ### Set up raspberry pi
-...
-
+1. Open your powershell and clone repository:
+    ```
+      git clone https://github.com/AveePB/Maze.git
+    ```
+2. Open the project folder and create virtual environment:
+    ```
+      python -m venv env
+    ```
+3. Activate your python environment:
+    ```
+    ./env/bin/activate
+    ```
+4. Download required libraries from the txt file:
+    ```
+    pip install -r requirements.txt
+    ```
+5. Run the python file
+    ```
+    python main.py
+    ```
 ## How does TSR work?
 ...
 
