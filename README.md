@@ -23,13 +23,10 @@ This is one of student projects, that is supposed to help acquire knowledge of A
 ### Clone repository
 ...
 
-### Download required libraries
-...
-
 ### Upload code to arduino
 ...
 
-### Upload code to raspberry pi
+### Set up raspberry pi
 ...
 
 ## How does TSR work?
