@@ -35,13 +35,13 @@ This is one of student projects, that is supposed to help acquire knowledge of A
 ## How does TSR work?
 ...
 
-### Camera Input
+### Camera input
 ...
 
-### Sign Detection 
+### Sign detection 
 ...
 
-### Sign Classification
+### Sign classification
 <img src="./assets/img/traffic-signs.png" width=600/>
 
 Objects detected by the camera are assigned one of the lables:
@@ -54,7 +54,7 @@ Objects detected by the camera are assigned one of the lables:
 
 ## Application of TSR
 
-### Line Follower
+### Line follower
 ...
 
 ### Assembly
