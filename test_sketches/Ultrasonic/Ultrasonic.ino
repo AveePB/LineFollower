@@ -3,8 +3,8 @@
  * @brief Example sketch using an UltrasonicSensor class to measure distance.
  */
 
-#define ECHO 5   ///< Pin connected to the echo pin of the ultrasonic sensor
-#define TRIG 6   ///< Pin connected to the trigger pin of the ultrasonic sensor
+#define ECHO 6   ///< Pin connected to the echo pin of the ultrasonic sensor
+#define TRIG 5   ///< Pin connected to the trigger pin of the ultrasonic sensor
 #define BAUD_RATE 9600  ///< Serial communication baud rate
 
 /**
