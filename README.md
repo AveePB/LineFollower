@@ -38,6 +38,7 @@ This is one of student projects, that is supposed to help acquire knowledge of A
     ```
 5. Run the python file
     ```
+    cd robot
     python main.py
     ```
 ## Traffic sign recognition
