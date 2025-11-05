@@ -4,7 +4,7 @@ TSR is a technology by which a vehicle is able to recognize the traffic signs pu
 ## Table of contents
 - [Introduction](#introduction)
 - [Installation](#installation)
-- [How does TSR work?](#how-does-tsr-work)
+- [Traffic sign recognition](#traffic-sign-recognition)
 - [Line detection](#line-detection)
 - [License](#license)
 - [Literature](#literature)
@@ -40,7 +40,7 @@ This is one of student projects, that is supposed to help acquire knowledge of A
     ```
     python main.py
     ```
-## How does TSR work?
+## Traffic sign recognition
 ...
 
 ### Camera input
