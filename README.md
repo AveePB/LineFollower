@@ -37,9 +37,12 @@ This is one of student projects, that is supposed to help acquire knowledge of A
     ```
     pip install -r requirements.txt
     ```
-5. Run the python file
+5. Change directory
     ```
     cd robot
+    ```
+6. Run the python file
+    ```
     python main.py
     ```
 ## Line detection
